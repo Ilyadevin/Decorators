@@ -1,0 +1,6 @@
+2020-01-08 17:24:12,016 - double_function - INFO - Вызов функции: double_function
+2020-01-08 17:24:12,016 - double_function - INFO - Результат: <module 'main' from 'C:\\Users\\г\\Desktop\\WorkSpace\\Decorators\\main.py'>
+2020-01-08 17:37:35,267 - double_function - INFO - Вызов функции: double_function
+2020-01-08 17:37:35,267 - double_function - INFO - Результат: <module 'main' from 'C:\\Users\\г\\Desktop\\WorkSpace\\Decorators\\main.py'>
+2020-01-08 17:55:23,228 - double_function - INFO - Вызов функции: double_function
+2020-01-08 17:55:23,228 - double_function - INFO - Результат: <module 'main' from 'C:\\Users\\г\\Desktop\\WorkSpace\\Decorators\\main.py'>
